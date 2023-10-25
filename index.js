@@ -1,3 +1,4 @@
+//大家好，我是兵子哥
 exports.initPathData = function(pathData) {
   pathData = (pathData) ? pathData : {};
   pathData.count = (pathData.count) ? pathData.count : 0;
